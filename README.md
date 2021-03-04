@@ -28,9 +28,8 @@
 
 ---
 -	🐎 Founder of [ArGo](https://argoapp.live).
-- 📍 Co-Founder, Backend dev of [TerraMap](https://github.com/Terra-Maps).
+- 📍 Backend dev of [TerraMap](https://github.com/Terra-Maps).
 - 🔭 I’m an active Gitcoiner [Izrake](https://gitcoin.co/izrake)
-- 🤖 I'm currently working in a startup as a Full-Stack Developer.
 - 🌱 I'm a web3/ Blockchain dev as well as a Backend Developer.
 
 
